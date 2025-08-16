@@ -1,4 +1,4 @@
 # code-demo
 This is my first Git Repository.
 <br>
-Author - Khushi Sharma
+Author - Khushi Sharma(engineer)
